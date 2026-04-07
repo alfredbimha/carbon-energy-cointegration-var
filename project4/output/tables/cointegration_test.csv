@@ -1,0 +1,4 @@
+Hypothesis,Trace_stat,Critical_5pct,Cointegrated
+r=0,34.8842,29.7961,True
+r≤1,15.8379,15.4943,True
+r≤2,3.2521,3.8415,False
